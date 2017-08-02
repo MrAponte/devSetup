@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../../css/master.css" ?>
+<svg id="svg__num-one" width="112px" height="203px" viewBox="0 0 112 203" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>num-01</title>
+    <desc>Decorative Number 1</desc>
+    <defs></defs>
+    <g id="font-images" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="num-01" fill="#464C66">
+            <path d="M36.6470588,81.113943 L9,51.9910045 L53.8496732,9 L103,9 L103,194 L36.6470588,194 L36.6470588,81.113943 Z M73.2026144,171.811094 L73.2026144,31.1889055 L64.6013072,31.1889055 L40.9477124,53.9325337 L45.5555556,58.6476762 L65.2156863,40.6191904 L65.2156863,171.811094 L73.2026144,171.811094 Z" id="1"></path>
+        </g>
+    </g>
+</svg>

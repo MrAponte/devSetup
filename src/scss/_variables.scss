@@ -1,0 +1,45 @@
+/*
+
+[Description]
+  This file is used to import the fonts and define the variables used throughout the site.
+
+
+[Table of Contents]
+  Typography
+  Colors
+  Box Model
+  Breakpoints
+  Misc
+
+*/
+
+/////// [Section] Typography ///////
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800');
+
+$default-font: 'Open Sans', sans-serif;
+
+/////// [Section] Colors ///////
+
+/*
+
+[Usage]
+  These are your color variables. To start with, define the "literal" color variables you'll need, such as $blue, $green, $red, and so forth.
+
+  Next, use your literal color variables to define your element color variables.
+
+*/
+
+// Literal color variables
+
+$red: red;
+$white: white;
+$blue: blue;
+
+/////// [Section] Box Model ///////
+
+$pad-all: 20px;
+$pad-top: 20px;
+$pad-right: 20px;
+$pad-left: 20px;
+$pad-bottom: 20px;
